@@ -26,7 +26,6 @@
 </div>
 
 ###
-
 <h1 align="left">Hello There ! 😁</h1>
 
 ###
@@ -38,8 +37,8 @@
 <p align="left">I'm Ayush Niraula 👋<br>Software Engineer | Front-End Team Lead at The Big Solutions<br>Passionate about Machine Learning and AI 🤖 | MERN Stack Enthusiast<br>Currently building a mega project with MERN 🚀 and diving deep into AI/ML to create smarter solutions.<br>Always learning, always building—let’s innovate together!</p>
 
 ###
+<hr>
 
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -117,6 +116,7 @@
 
 </div>
 
+<hr>
 
 
 ###
